@@ -129,7 +129,3 @@ spec:
         backend:
           serviceName: booking-service
           servicePort: 9080
-
-  
-          
-          
